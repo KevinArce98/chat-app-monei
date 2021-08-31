@@ -1,0 +1,8 @@
+@import "./bootstrap-utilities.min.scss";
+
+#root {
+    section {
+        min-height: 100vh;
+        max-height: 100vh;
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatappmonei-dev-124246-authRole",
+      "UnauthRoleArn": "arn:aws:iam::605216648476:role/amplify-chatappmonei-dev-124246-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::605216648476:role/amplify-chatappmonei-dev-124246-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chatappmonei-dev-124246-deployment",
+      "UnauthRoleName": "amplify-chatappmonei-dev-124246-unauthRole",
+      "StackName": "amplify-chatappmonei-dev-124246",
+      "StackId": "arn:aws:cloudformation:us-east-1:605216648476:stack/amplify-chatappmonei-dev-124246/becfb050-082f-11ec-9010-0e9b76727ea5",
+      "AmplifyAppId": "d3aome60vp6qgk"
+    },
+    "categories": {
+      "auth": {
+        "chatappmoneib4569004": {
+          "userPoolId": "us-east-1_TpuupFARe",
+          "userPoolName": "ChatAppMONEIUser",
+          "webClientId": "6bcalk2igc993r59qg873ucipg",
+          "nativeClientId": "6bcalk2igc993r59qg873ucipg"
+        }
+      }
+    }
+  }
+}
